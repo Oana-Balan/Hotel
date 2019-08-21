@@ -1,0 +1,9 @@
+
+HOTEL FLOAREA SALBATICA
+Data:2018-06-29T17:40:15.801
+
+ID Receptionist : 2
+Client : Popa Dana
+Camera: 100,tip: single
+Pret pe o noapte: 50
+PRET TOTAL : 250
