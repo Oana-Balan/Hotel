@@ -1,0 +1,22 @@
+.details{
+    background:url(detail.jpg) no-repeat;
+    background-size: 500px 250px;
+    height:300px;
+    width: 600px;
+    margin-left: 10px;
+}
+
+.details2{
+    background:url(detail2.jpg) no-repeat;
+    background-size: 300px 130px;
+    height:172px;
+    width: 300px;
+    margin-left: 950px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-family: "Segoe UI Light";
+    color:#ffffff;
+}

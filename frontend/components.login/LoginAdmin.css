@@ -1,0 +1,31 @@
+
+.navbarA {
+    margin-top:-80px;
+    overflow: hidden;
+    background-color: #000000;
+    font-family: Arial;
+    z-index: 2;
+    width:1366px;
+}
+
+/* Links inside the navbar */
+.navbarA a {
+    margin-top:0px;
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.logo {
+    background-color: #ffffff;
+    background-size: 1366px 10px;
+    margin-top:-47px;
+    width: 1366px;
+    height:82px;
+    z-index: 2;
+}
+
+
